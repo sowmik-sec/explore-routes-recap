@@ -7,3 +7,9 @@
 .header a:hover {
   background-color: aquamarine;
 }
+
+.active {
+  text-decoration: underline;
+  font: bold;
+  background-color: aquamarine;
+}
